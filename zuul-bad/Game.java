@@ -1,4 +1,4 @@
-/**
+/**dette er en test som skal vise om den bliver uploadet til github til jer andre :-D
  *  This class is the main class of the "World of Zuul" application. 
  *  "World of Zuul" is a very simple, text based adventure game.  Users 
  *  can walk around some scenery. That's all. It should really be extended 
